@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Madhankumar11/Madhan-react/static/css/main.386f2121.css",
+    "main.js": "/Madhankumar11/Madhan-react/static/js/main.b093195a.js",
+    "static/js/787.28e9283f.chunk.js": "/Madhankumar11/Madhan-react/static/js/787.28e9283f.chunk.js",
+    "static/media/2.jpg": "/Madhankumar11/Madhan-react/static/media/2.ceec642e0ed56457c25a.jpg",
+    "static/media/headerBanner.jpg": "/Madhankumar11/Madhan-react/static/media/headerBanner.806c2ddcbbfe7b30e41a.jpg",
+    "index.html": "/Madhankumar11/Madhan-react/index.html",
+    "main.386f2121.css.map": "/Madhankumar11/Madhan-react/static/css/main.386f2121.css.map",
+    "main.b093195a.js.map": "/Madhankumar11/Madhan-react/static/js/main.b093195a.js.map",
+    "787.28e9283f.chunk.js.map": "/Madhankumar11/Madhan-react/static/js/787.28e9283f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386f2121.css",
+    "static/js/main.b093195a.js"
+  ]
+}
